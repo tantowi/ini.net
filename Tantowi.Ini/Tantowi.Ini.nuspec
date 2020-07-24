@@ -8,7 +8,7 @@
     <owners>$author$</owners>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <license type="file">LICENSE.txt</license>
-    <projectUrl>https://github.com/tantowi/ini.cs</projectUrl>
+    <projectUrl>https://github.com/tantowi/ini.net</projectUrl>
     <icon>Owl.png</icon>
     <description>$description$</description>
     <releaseNotes>Initial release of the library</releaseNotes>
