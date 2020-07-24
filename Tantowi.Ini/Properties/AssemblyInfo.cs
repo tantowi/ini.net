@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Tantowi.Ini")]
-[assembly: AssemblyDescription("Library for reading and writing to INI file")]
+[assembly: AssemblyDescription("Library for reading from and writing to INI file")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Tantowi Mustofa")]
 [assembly: AssemblyProduct("Tantowi.Ini")]
