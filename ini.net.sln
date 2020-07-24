@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tantowi.Ini.Test", "Tantowi.Ini.Test\Tantowi.Ini.Test.csproj", "{DB62E129-29C6-45ED-853F-A77260A7E7A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tantowi.Ini", "Tantowi.Ini\Tantowi.Ini.csproj", "{3553B840-60BF-4D2A-851B-DDF972ECF473}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB62E129-29C6-45ED-853F-A77260A7E7A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB62E129-29C6-45ED-853F-A77260A7E7A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB62E129-29C6-45ED-853F-A77260A7E7A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB62E129-29C6-45ED-853F-A77260A7E7A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3553B840-60BF-4D2A-851B-DDF972ECF473}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3553B840-60BF-4D2A-851B-DDF972ECF473}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3553B840-60BF-4D2A-851B-DDF972ECF473}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3553B840-60BF-4D2A-851B-DDF972ECF473}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8A0D118-D5CB-44DD-9151-6698359300C4}
+	EndGlobalSection
+EndGlobal
