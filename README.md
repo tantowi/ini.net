@@ -32,7 +32,9 @@ Ini.net is Dotnet Framwork library for reading and writing to INI file
     string[] keys = ini.GetKeys("setting");
 ```
 
+## Reference
 
+- [Tantowi.Ini class](docs/index.html)
 
 
 
